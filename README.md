@@ -3,6 +3,7 @@ It is just for me to play around with the formatting a bit.
 
 #How to make my favorite coffee
 In order to be able to wake up in the morning and get ready for work, I always need some fresh coffee. This is how you make it:
+
 1. Turn on the __coffee machine__.
 2. Fill the __water tank__ with enough water.
 3. Open the __box__ for the tab.
