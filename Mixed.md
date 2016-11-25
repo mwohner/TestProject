@@ -12,4 +12,5 @@ My code:
 This is a `test`. 
 
 And now an image:
+
 ![my profile image] (test.png)
